@@ -1,0 +1,6 @@
+E:\JavaSpace\IOCPServer\NetBase\bin\Debug\NetBase.dll
+E:\JavaSpace\IOCPServer\NetBase\bin\Debug\NetBase.pdb
+E:\JavaSpace\IOCPServer\NetBase\obj\Debug\NetBase.csprojAssemblyReference.cache
+E:\JavaSpace\IOCPServer\NetBase\obj\Debug\NetBase.csproj.CoreCompileInputs.cache
+E:\JavaSpace\IOCPServer\NetBase\obj\Debug\NetBase.dll
+E:\JavaSpace\IOCPServer\NetBase\obj\Debug\NetBase.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetBase", "NetBase.csproj", "{6488C793-C8F3-4E53-BB69-9F65C1D8DD20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameServerApp", "..\GameServerApp\GameServerApp.csproj", "{69F001AC-AA9E-4A31-B37D-90D0D1785F3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6488C793-C8F3-4E53-BB69-9F65C1D8DD20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6488C793-C8F3-4E53-BB69-9F65C1D8DD20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6488C793-C8F3-4E53-BB69-9F65C1D8DD20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6488C793-C8F3-4E53-BB69-9F65C1D8DD20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69F001AC-AA9E-4A31-B37D-90D0D1785F3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F001AC-AA9E-4A31-B37D-90D0D1785F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F001AC-AA9E-4A31-B37D-90D0D1785F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F001AC-AA9E-4A31-B37D-90D0D1785F3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F43013ED-11AB-4E4D-904B-82BE161D631D}
+	EndGlobalSection
+EndGlobal

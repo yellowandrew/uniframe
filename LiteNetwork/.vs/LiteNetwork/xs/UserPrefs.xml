@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{1537E833-95CB-4D18-B2C4-658D48365DB5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TcpClient.cs">
+    <Files>
+      <File FileName="LiteTcpServer.cs" Line="60" Column="6" />
+      <File FileName="TcpServer.cs" Line="418" Column="29" />
+      <File FileName="../NetorkDemo/Handlers.cs" Line="46" Column="68" />
+      <File FileName="TcpClient.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LiteNetwork" expanded="True">
+            <Node name="LiteNetwork" expanded="True">
+              <Node name="TcpClient.cs" selected="True" />
+            </Node>
+            <Node name="NetorkDemo" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NetorkDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

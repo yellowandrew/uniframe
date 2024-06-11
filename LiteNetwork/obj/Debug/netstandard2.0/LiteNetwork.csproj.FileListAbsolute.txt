@@ -1,0 +1,10 @@
+E:\Gits\2022\ServerWork\LiteNetwork\obj\Debug\netstandard2.0\LiteNetwork.csproj.AssemblyReference.cache
+E:\Gits\2022\ServerWork\LiteNetwork\obj\Debug\netstandard2.0\LiteNetwork.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gits\2022\ServerWork\LiteNetwork\obj\Debug\netstandard2.0\LiteNetwork.AssemblyInfoInputs.cache
+E:\Gits\2022\ServerWork\LiteNetwork\obj\Debug\netstandard2.0\LiteNetwork.AssemblyInfo.cs
+E:\Gits\2022\ServerWork\LiteNetwork\obj\Debug\netstandard2.0\LiteNetwork.csproj.CoreCompileInputs.cache
+E:\Gits\2022\ServerWork\LiteNetwork\bin\Debug\netstandard2.0\LiteNetwork.deps.json
+E:\Gits\2022\ServerWork\LiteNetwork\bin\Debug\netstandard2.0\LiteNetwork.dll
+E:\Gits\2022\ServerWork\LiteNetwork\bin\Debug\netstandard2.0\LiteNetwork.pdb
+E:\Gits\2022\ServerWork\LiteNetwork\obj\Debug\netstandard2.0\LiteNetwork.dll
+E:\Gits\2022\ServerWork\LiteNetwork\obj\Debug\netstandard2.0\LiteNetwork.pdb

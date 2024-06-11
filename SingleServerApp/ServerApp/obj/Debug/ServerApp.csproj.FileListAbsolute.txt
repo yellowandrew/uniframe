@@ -1,0 +1,10 @@
+E:\JavaSpace\SingleServerApp\ServerApp\bin\Debug\ServerApp.exe.config
+E:\JavaSpace\SingleServerApp\ServerApp\bin\Debug\ServerApp.exe
+E:\JavaSpace\SingleServerApp\ServerApp\bin\Debug\ServerApp.pdb
+E:\JavaSpace\SingleServerApp\ServerApp\bin\Debug\NetCore.dll
+E:\JavaSpace\SingleServerApp\ServerApp\bin\Debug\NetCore.pdb
+E:\JavaSpace\SingleServerApp\ServerApp\obj\Debug\ServerApp.csprojAssemblyReference.cache
+E:\JavaSpace\SingleServerApp\ServerApp\obj\Debug\ServerApp.csproj.CoreCompileInputs.cache
+E:\JavaSpace\SingleServerApp\ServerApp\obj\Debug\ServerApp.csproj.CopyComplete
+E:\JavaSpace\SingleServerApp\ServerApp\obj\Debug\ServerApp.exe
+E:\JavaSpace\SingleServerApp\ServerApp\obj\Debug\ServerApp.pdb

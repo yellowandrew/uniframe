@@ -1,0 +1,6 @@
+E:\JavaSpace\SingleServerApp\NetCore\bin\Release\NetCore.dll
+E:\JavaSpace\SingleServerApp\NetCore\bin\Release\NetCore.pdb
+E:\JavaSpace\SingleServerApp\NetCore\obj\Release\NetCore.csprojAssemblyReference.cache
+E:\JavaSpace\SingleServerApp\NetCore\obj\Release\NetCore.csproj.CoreCompileInputs.cache
+E:\JavaSpace\SingleServerApp\NetCore\obj\Release\NetCore.dll
+E:\JavaSpace\SingleServerApp\NetCore\obj\Release\NetCore.pdb
