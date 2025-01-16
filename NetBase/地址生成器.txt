@@ -1,0 +1,58 @@
+from mnemonic import Mnemonic
+from hdwallet import HDWallet
+from hdwallet.symbols import BTC as Bitcoin
+from hdwallet.symbols import ETH as Ethereum
+from hdwallet.utils import generate_mnemonic
+from eth_utils import to_checksum_address
+
+# 如果你需要生成助记词，取消注释下面这行,并注释掉下面的 words 和 passphrase 赋值
+# words = generate_mnemonic(language="chinese_simplified", strength=128)
+# print(f"助记词：{words}")
+
+# --- 设置助记词和密码 ---
+words = "助记词1 助记词2 ... 助记词12"  # 替换为你的助记词
+passphrase = "your_passphrase"  # 替换为你的密码，可以为空字符串 ""
+
+# --- 比特币 ---
+print("\n--- 比特币 ---")
+
+# 初始化 HDWallet
+btc_wallet = HDWallet(symbol=Bitcoin)
+btc_wallet.from_mnemonic(
+    mnemonic=words,
+    passphrase=passphrase  # 添加 passphrase 参数
+)
+
+# 推导路径 (BIP44)
+btc_wallet.from_path("m/44'/0'/0'/0/0")
+
+# 获取私钥和地址
+btc_private_key = btc_wallet.private_key()
+btc_address = btc_wallet.p2pkh_address()
+
+print("比特币私钥:", btc_private_key)
+print("比特币地址:", btc_address)
+
+# --- 以太坊 ---
+print("\n--- 以太坊 ---")
+
+# 初始化 HDWallet
+eth_wallet = HDWallet(symbol=Ethereum)
+eth_wallet.from_mnemonic(
+    mnemonic=words,
+    passphrase=passphrase  # 添加 passphrase 参数
+)
+
+# 推导路径 (BIP44)
+eth_wallet.from_path("m/44'/60'/0'/0/0")
+
+# 获取私钥和地址
+eth_private_key = eth_wallet.private_key()
+eth_address = eth_wallet.p2pkh_address()
+
+# 使用 eth_utils 将地址转换为校验和地址 (推荐)
+eth_checksum_address = to_checksum_address(eth_address)
+
+print("以太坊私钥:", eth_private_key)
+print("以太坊地址 (原始):", eth_address)
+print("以太坊地址 (校验和):", eth_checksum_address)
