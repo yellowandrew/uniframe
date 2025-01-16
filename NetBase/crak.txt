@@ -1,0 +1,3 @@
+mnemonic->Mnemonic
+m.chr(ord(c)^7)-1.to_entropy(m)
+m.to_mnemonic(bytes.fromhex(x))
